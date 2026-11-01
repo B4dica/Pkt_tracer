@@ -46,7 +46,7 @@ packet-analyzer/
 
 1. Entre na pasta:
    ```bash
-   cd "C:/Users/garci/OneDrive/Área de Trabalho/Filtrador/packet-analyzer/backend"
+   cd "C:/packet-analyzer/backend"
    ```
 2. Crie e ative o ambiente virtual:
    ```bash
@@ -82,7 +82,7 @@ packet-analyzer/
 
 1. Entre na pasta:
    ```bash
-   cd "C:/Users/garci/OneDrive/Área de Trabalho/Filtrador/packet-analyzer/frontend"
+   cd "C:/packet-analyzer/frontend"
    ```
 2. Instale as dependências com npm:
    ```bash
